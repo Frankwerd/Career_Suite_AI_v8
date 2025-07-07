@@ -61,4 +61,4 @@ This script is designed to be set up automatically by the CareerSuite.ai Chrome 
 
 ## Privacy & Security
 
-As stated in our official [Privacy Policy](https://[LINK_TO_YOUR_POLICY]), this script adheres to a strict user-first privacy model. **The security of the user's data is maintained because the script and the data it processes never leave the user's own Google Account.** Our role as developers is simply to provide the open-source code that enables this powerful, private automation.
+As stated in our official [Privacy Policy](https://[https://careersuiteai.vercel.app/privacy]), this script adheres to a strict user-first privacy model. **The security of the user's data is maintained because the script and the data it processes never leave the user's own Google Account.** Our role as developers is simply to provide the open-source code that enables this powerful, private automation.
